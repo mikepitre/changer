@@ -1,3 +1,4 @@
+#Matthew Giardina and Mike Pitre
 require 'minitest/autorun'
 require 'minitest/pride'
 require_relative '../lib/changer'
